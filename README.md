@@ -351,33 +351,33 @@ I'm gradually moving from **writing individual applications** toward understandi
 <div align="center">
 
 ```text
-           NOW
-            │
-            ▼
+NOW
+│
+▼
     ┌─────────────────┐
     │ Backend         │
     │ Node.js + APIs  │
     └────────┬────────┘
-             │
-             ▼
+│
+▼
     ┌─────────────────┐
     │ Database        │
     │ SQL + Design    │
     └────────┬────────┘
-             │
-             ▼
+│
+▼
     ┌─────────────────┐
     │ DevOps & Cloud  │
     │ Docker + AWS    │
     └────────┬────────┘
-             │
-             ▼
+│
+▼
     ┌─────────────────┐
     │ System Design   │
     │ Distributed Sys │
     └────────┬────────┘
-             │
-             ▼
+│
+▼
     ┌─────────────────┐
     │ Architecture    │
     │ Long-Term Goal  │
