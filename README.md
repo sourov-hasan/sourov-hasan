@@ -2,19 +2,19 @@
 
 # 👋 Hey, I'm **Md Sourov Hasan**
 
-### `Backend Developer` · `System Design Enthusiast` · `SQA Explorer`
+### `System Design Enthusiast` · `Web Application Developer` · `SQA Explorer`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Backend+Systems;Learning+System+Design;Testing+Software+Quality;Exploring+Cloud+%26+DevOps;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sourov-hasan">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/sourov-hasan-emon">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:souov-hasan373e@gamil.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -94,13 +94,12 @@ My long-term goal is to become a **System Designer / Software Architect**.
                          │ JS • HTML • CSS     │
                          │ Node.js • MySQL     │
                          └─────────────────────┘
-
-                              ↕
-                     ┌──────────────────┐
-                     │       SQA        │
-                     │ Test • Automate  │
-                     │ Debug • Improve  │
-                     └──────────────────┘
+                                    ↕
+                          ┌──────────────────┐
+                          │       SQA        │
+                          │ Test • Automate  │
+                          │ Debug • Improve  │
+                          └──────────────────┘
 ```
 
 ### 🧭 Primary Path
@@ -393,15 +392,15 @@ I'm gradually moving from **writing individual applications** toward understandi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=souov-hasan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souov-hasan&layout=compact&theme=github_dark&hide_border=true" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=souov-hasan&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -492,11 +491,11 @@ My academic interests include:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sourov-hasan">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/sourov-hasan-emon/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -516,6 +515,6 @@ My academic interests include:
 
 <br><br>
 
-**Thanks for visiting my profile! ⭐**
+**Thanks for visiting my profile! **
 
 </div>
