@@ -61,7 +61,7 @@ My long-term goal is to become a **System Designer / Software Architect**.
 │ 🧩 Problem Solver        │
 │ 🧪 SQA Enthusiast        │
 │ ☁️ Cloud Learner         │
-│ 🏗️ System Design        │
+│ 🏗️ System Design         │
 │ 🚀 Always Learning       │
 └──────────────────────────┘
 ```
@@ -336,8 +336,8 @@ I'm gradually moving from **writing individual applications** toward understandi
 | Layer                  | Concepts                                   |
 | ---------------------- | ------------------------------------------ |
 | 🔌 API                 | REST, API Gateway, Authentication          |
-| ⚡ Performance          | Caching, CDN, Load Balancing               |
-| 🗄️ Database           | Indexing, Replication, Sharding            |
+| ⚡ Performance         | Caching, CDN, Load Balancing               |
+| 🗄️ Database            | Indexing, Replication, Sharding            |
 | 📨 Communication       | Message Queue, Event-Driven Architecture   |
 | 🧩 Architecture        | Monolith, Modular Monolith, Microservices  |
 | ☁️ Infrastructure      | Docker, Kubernetes, AWS                    |
@@ -357,25 +357,25 @@ NOW
     ┌─────────────────┐
     │ Backend         │
     │ Node.js + APIs  │
-    └────────┬────────┘
+    └──────── ────────┘
 │
 ▼
     ┌─────────────────┐
     │ Database        │
     │ SQL + Design    │
-    └────────┬────────┘
+    └──────── ────────┘
 │
 ▼
     ┌─────────────────┐
     │ DevOps & Cloud  │
     │ Docker + AWS    │
-    └────────┬────────┘
+    └──────── ────────┘
 │
 ▼
     ┌─────────────────┐
     │ System Design   │
     │ Distributed Sys │
-    └────────┬────────┘
+    └──────── ────────┘
 │
 ▼
     ┌─────────────────┐
