@@ -134,11 +134,12 @@ These paths complement each other because understanding **how software is built*
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
-### 🤖 AI / ML
+### 📊 Data Science & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
+
 
 ### ☁️ Currently Exploring
 
