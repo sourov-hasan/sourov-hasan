@@ -80,16 +80,16 @@ My long-term goal is to become a **System Designer / Software Architect**.
                          │  Software Architect │
                          └──────────┬──────────┘
                                     │
-                         ┌──────────▼──────────┐
+                         ┌────────── ──────────┐
                          │  Senior Engineering │
                          └──────────┬──────────┘
                                     │
-                    ┌───────────────▼───────────────┐
+                    ┌─────────────── ───────────────┐
                     │       BACKEND ENGINEER        │
                     │   Node.js • API • Database    │
                     └───────────────┬───────────────┘
                                     │
-                         ┌──────────▼──────────┐
+                         ┌────────── ──────────┐
                          │    MY FOUNDATION    │
                          │ JS • HTML • CSS     │
                          │ Node.js • MySQL     │
